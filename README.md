@@ -9,6 +9,8 @@ To run the example project; clone the repo, and run `pod install` from the Proje
 
 ## Requirements
 
+iOS 7.0 or later.
+
 ## Installation
 
 MTOZoomInOutTransition is available through [CocoaPods](http://cocoapods.org), to install
@@ -18,7 +20,7 @@ it simply add the following line to your Podfile:
 
 ## Author
 
-Yusuke Mito, y310.1984@gmail.com
+Yusuke Mito
 
 ## License
 
